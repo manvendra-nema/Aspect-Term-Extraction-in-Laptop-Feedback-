@@ -1,4 +1,4 @@
-# 🎯 Task 2: Aspect Term Extraction from Laptop Review Texts 💻
+# 🎯 Aspect Term Extraction from Laptop Review Texts 💻
 
 
 
