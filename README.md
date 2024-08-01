@@ -70,17 +70,3 @@
 4. Calculate label-wise F1 scores for the best-performing model and plot a bar graph or pie chart.
 
 ---
-
-## 📦 Deliverables
-
-- **JSON Files:**
-  - ATE_train.json, ATE_val.json, ATE_test.json
-- **Saved Models:**
-  - 12 models (t2_<model>_<embedding>.pkl or t2_<model>_<embedding>.pt)
-- **Report PDF:**
-  - Data samples and preprocessing description
-  - All generated plots with analysis
-  - Performance tables for each model
-  - Label-wise F1 score plot
-  - Contribution of each team member
-
